@@ -33,7 +33,7 @@ Este repositório foi criado para documentar meu plano de estudos focado em **pr
 
 ### **2. C++ para Blockchain**
 - Revisão de fundamentos de C++.
-- Curso: [C++ Tutorial for Beginners - FreeCodeCamp](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+- Curso: [C++ Progressivo - www.cmmprogressivo.net](https://www.cmmprogressivo.net/p/curso-de-c-completo-online-e-gratis.html)
 - Projeto prático: Criar um simulador de transações Bitcoin em C++.
 
 ---
