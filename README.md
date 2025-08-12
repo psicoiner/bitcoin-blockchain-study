@@ -66,6 +66,6 @@ Este repositório foi criado para documentar meu plano de estudos focado em **pr
 
 ## 📩 Contato
 - GitHub: [psicoiner](https://github.com/psicoiner)
-- Email: *[adicione aqui seu email]*
+- Email: [migueltsilva71@gmail.com](mailto:migueltsilva71@gmail.com?subject=migueltsilva71@gmail.com&body=migueltsilva71@gmail.com)
 
 ---
